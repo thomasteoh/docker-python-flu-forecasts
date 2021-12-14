@@ -1,0 +1,7 @@
+mssql
+jedi
+autopep8
+flake8
+ipython
+importmagic
+yapf
